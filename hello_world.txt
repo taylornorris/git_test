@@ -1,1 +1,2 @@
 I can do this! 
+Test VS Code text editor for git message
